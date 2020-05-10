@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module fritzingVersion="0.6.5b.01.02.5717" moduleId="24bbbee0923911ea8b5a784f4351b522">
-    <version>1.1</version>
+    <version>1.2</version>
     <author>Carlos Martinez Ubeda</author>
     <title>NTE489 JFET P-Channel</title>
     <label>Q</label>
